@@ -8,3 +8,5 @@ scripts/.idea/
 venv/
 
 example-files/files-for-testing/
+
+tests/
