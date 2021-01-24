@@ -1,3 +1,28 @@
-SPARQLWrapper
-rdflib
-requests
+antlr4-python3-runtime==4.9.1
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1606601120025/work
+CFGraph==0.2.1
+chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1610093492116/work
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1610338668572/work
+html5lib @ file:///home/conda/feedstock_root/build_artifacts/html5lib_1592930327044/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+isodate==0.6.0
+jsonasobj==1.2.1
+keepalive @ file:///home/conda/feedstock_root/build_artifacts/keepalive_1610116078840/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+PyJSG==0.11.6
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pyparsing==2.4.7
+PyShEx==0.7.20
+PyShExC==0.8.3
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1610291451001/work
+rdflib @ file:///home/conda/feedstock_root/build_artifacts/rdflib_1610581404696/work
+rdflib-jsonld==0.5.0
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+ShExJSG==0.7.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+sparqlslurper==0.4.1
+SPARQLWrapper @ file:///home/conda/feedstock_root/build_artifacts/sparqlwrapper_1610118804821/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1605225765842/work
+webencodings==0.5.1
