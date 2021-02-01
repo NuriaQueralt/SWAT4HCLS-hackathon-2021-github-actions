@@ -1,6 +1,5 @@
 import glob
 import logging
-#from rdflib import Graph
 import sys
 from pyshex.utils.schema_loader import SchemaLoader
 from io import StringIO
